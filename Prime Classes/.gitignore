@@ -3,14 +3,6 @@ miniproject1/
 .virtual_documents/
 
 
-API_Web_scraping/.ipynb_checkpoints/
-API_Web_scraping/Cleaned_Data/.ipynb_checkpoints/
-API_Web_scraping/Scraped_Data/.ipynb_checkpoints/
-
-Data Visualization/.ipynb_checkpoints/
-Kaggle/.ipynb_checkpoints/
-
-Numpy_&_Maths/.ipynb_checkpoints/
-Pandas/.ipynb_checkpoints/
-Supervised_ML/.ipynb_checkpoints/
-Supervised_ML/Scratch_implementations/.ipynb_checkpoints/
+# Ignore all Jupyter Notebook checkpoint folders anywhere in the project
+**/.ipynb_checkpoints/
+git rm -r --cached .
