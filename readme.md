@@ -1,6 +1,9 @@
 # Leaning of Python and AI-ML
-## Date 17-Oct-2026
-Completed Supervised learning completely - 16-october-2026
+## Date 26-Oct-2026
+
+Completed Unsupervised learning - 26-october-2026
+
+Completed Supervised learning - 16-october-2026
 
 Completed till Web Scraping Completed & Databases Completed - 16-june-2026
 
