@@ -5,4 +5,4 @@ Prime Classes/ML Projects/
 
 # Ignore all Jupyter Notebook checkpoint folders anywhere in the project
 **/.ipynb_checkpoints/
-git rm -r --cached .
+git rm -r --cached .ṇ
